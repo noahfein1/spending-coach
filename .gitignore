@@ -1,0 +1,9 @@
+# Never commit these
+*.csv
+category_cache.json
+budgets.json
+__pycache__/
+*.pyc
+.env
+.DS_Store
+chroma_store/
