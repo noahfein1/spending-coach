@@ -1,8 +1,8 @@
-# 💰 Spending Coach
+#  Spending Coach
 
 An AI-powered personal finance coach that categorizes bank transactions,
 detects overspending against your own budgets, and generates plain-English
-weekly summaries — 100% locally, with zero financial data leaving your machine.
+weekly summaries - 100% locally, with zero financial data leaving your machine.
 
 ## Why I built this
 Most budgeting apps either require linking your bank account (privacy risk)
